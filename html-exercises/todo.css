@@ -1,0 +1,34 @@
+body {
+    background-color: green;
+}
+#special {
+    color: blue;
+}
+.completed {
+    text-decoration: line-through;
+}
+/* STAR SELECTOR
+* {
+    border: 1px solid lightgray;
+} 
+    DESCENDANT SELECTOR
+li a {
+    color: red;
+}
+    ADJACENT SELECTOR
+h4 + ul {
+    border: 4px solid red;
+}
+    ATTRIBUTE SELECTOR
+a[href=""] {
+    background: blue;
+}
+    NTH OF TYPE
+ul:nth-of-type(3) {
+    background: purple;
+}
+
+
+
+
+*/

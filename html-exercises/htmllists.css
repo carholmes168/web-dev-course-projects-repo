@@ -1,0 +1,20 @@
+/* STAR SELECTOR */
+* {
+    border: 1px solid lightgray;
+} 
+    /* DESCENDANT SELECTOR */
+li a {
+    color: red;
+}
+    /* ADJACENT SELECTOR */
+h2 + ul {
+    border: 4px solid red;
+}
+    /* ATTRIBUTE SELECTOR */
+a[href="https://techterms.com/definition/html"] {
+    background: blue;
+}
+    /* NTH OF TYPE */
+li:nth-of-type(2) {
+    background: purple;
+}

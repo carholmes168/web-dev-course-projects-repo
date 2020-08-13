@@ -1,9 +1,21 @@
-h1 {
-    color: purple;
+body {
+    background: pink;
+    /* background: url(https://cdn.solace.com/wp-content/uploads/2019/01/bg-clouds.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
 }
-li {
-    color: pink;
+h1 {
+    color: #4B0082;
+    /* border-color: purple;
+    border-width: 5px;
+    border-style: solid; */
+    border: 2px solid blanchedalmond;
 }
 h4 {
-    color: blueviolet;
+    color: rgb(167, 81, 95);
 }
+li {
+    color: rgba(167, 81, 95, 1);
+    background: blanchedalmond;
+}
+/* rgba includes transparency */
